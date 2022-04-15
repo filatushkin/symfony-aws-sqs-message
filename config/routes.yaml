@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+
+notify_sqs:
+    path: /notify/sqs
+    controller: App\Controller\NotifyController::index

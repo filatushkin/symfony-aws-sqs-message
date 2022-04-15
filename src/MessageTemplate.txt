@@ -1,0 +1,7 @@
+{"content":"Message from symfony:2022-04-15 17:15:54"}
+
+	
+{"X-Message-Stamp-Symfony\\Component\\Messenger\\Stamp\\BusNameStamp":"[{\"busName\":\"messenger.bus.default\"}]"} X-Symfony-Messenger
+	
+App\Message\SmsNotification type
+application/json Content-Type
